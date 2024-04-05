@@ -12,7 +12,7 @@ function Footer() {
         textAlign="center"
         mt={10}
       >
-        پروژه وبلاگ با GraphQL | تمرین دوره ریکت
+        پروژه وبلاگ با GraphQL
       </Typography>
     </footer>
   );
