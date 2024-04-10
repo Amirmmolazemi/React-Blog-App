@@ -1,8 +1,14 @@
-# React + Vite
+# React blog app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Hi everyone
+#### in this project i developed a blog app using MUI and also hygraph backend.
+  ![main page](/blog-picture/React-Blog-App.png "project") 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### features: 
+### 1. you can put some comments on any blog that you want
+  ![details](/blog-picture/comments.png "comments") 
+  <br/>
+### 2. you can see each authors profile
+  ![comments](/blog-picture/post%20details.png "details")
+<br/>
+### 3. you can read post details that someone posted
